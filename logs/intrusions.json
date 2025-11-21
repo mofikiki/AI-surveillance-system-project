@@ -1,0 +1,14 @@
+[
+  {
+    "timestamp_utc": "2025-11-18T09-36-16.668366+00-00",
+    "track_id": "3",
+    "zone": "main_zone",
+    "centroid": [
+      178,
+      339
+    ],
+    "frame_idx": 564,
+    "video": "webcam_1",
+    "snapshot": "snaps\\2025-11-18T09-36-16.668366+00-00_id3.jpg"
+  }
+]
